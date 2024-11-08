@@ -1,0 +1,8 @@
+datasets==3.1.0
+jsonlines==4.0.0
+numpy==2.0.2
+pandas==2.2.3
+scikit-learn==1.5.2
+spacy==3.8.2
+tqdm==4.66.5
+accelerate==1.1.1
